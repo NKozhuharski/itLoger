@@ -4,37 +4,27 @@
       "id": 3,
       "message": "success",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2022-01-19T06:21:40.722Z"
+      "tech": "Nikolay Kozhuharski",
+      "date": "2022-01-20T07:58:29.400Z"
     },
     {
       "id": 4,
       "message": "Change somethings",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2022-01-18T06:20:06.656Z"
+      "tech": "Nikolay Kozhuharski",
+      "date": "2022-01-20T08:03:24.340Z"
     }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
     {
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
     },
     {
-      "firstName": "Jen",
-      "lastName": "Williams",
-      "id": 4
+      "firstName": "Nikolay",
+      "lastName": "Kozhuharski",
+      "id": 5
     }
   ]
 }
